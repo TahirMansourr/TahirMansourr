@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TahirMansourr
-- 👀 I’m interested in React js and Django
-- 💞️ I’m looking to collaborate on Django and React applications 
+- 👀 I’m interested in NextJs, ReactJs, and MongoDB
+- 💞️ I’m looking to collaborate on Next and MongoDB applications 
 - 📫 How to reach me . You can send an email on tahirelmag@gmail.com
 
 <!---
